@@ -1,0 +1,13 @@
+{
+
+    "port": "3000",
+    "server": {
+        "baseDir": [
+            "./client",
+            "./build/contracts"
+        ],
+        "routes": {
+            "/libs": "./node_modules"
+        }
+    }
+}
