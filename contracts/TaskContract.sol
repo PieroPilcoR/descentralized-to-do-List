@@ -9,7 +9,7 @@ contract TaskContract {
     
     // This generates the unic Task to test
     constructor(){
-        createTask('xdd', 'gaaaa');
+        createTask('first', 'task');
     }
 
     // Events
